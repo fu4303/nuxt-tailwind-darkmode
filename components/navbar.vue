@@ -2,7 +2,7 @@
   <nav class="py-4 bg-white dark:bg-gray-900 border-b border-gray-300 dark:border-gray-700 text-gray-600 dark:text-white fixed w-full transition-all duration-300">
     <div class="container mx-auto flex justify-between px-4 items-center">
       <p class="font-semibold uppercase tracking-wider">
-        Covid19 India
+        Covid19 United States
       </p>
       <button @click="toggle" class="">
         <svg
